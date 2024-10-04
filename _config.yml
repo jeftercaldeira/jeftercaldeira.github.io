@@ -21,14 +21,14 @@ repository               : "jeftercaldeira/jeftercaldeira.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Jefter1.jpg"
   name             : "Jefter Caldeira"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "PhD Candidate"
   bio2             : "Structural Geologist and Geomodeler"
   location         : "Earth"
   employer         : "Université de Lausanne"
-  uri              : # URL
+  uri              : "https://wp.unil.ch/detect/team/jefter-caldeira/"
   email            : "jefter.caldeira@unil.ch" 
 
   # Academic websites
