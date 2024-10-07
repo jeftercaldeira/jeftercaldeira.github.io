@@ -13,12 +13,15 @@ _Jefter Caldeira, Anindita Samsu, Ayoub Fatihi_
 Download poster: [PDF ()]
 
 ## Interactive results 🧮
-### Sketch Fab VIrtual Outcrop Model
+### Sketch Fab Virtual Outcrop Model
 This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.5 meters.
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Creux-du-Van Virtual Outcrop (subsampled 0.5m)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/635aa8ecb1f64a34815a60d4187eb8c8/embed?ui_theme=dark&dnt=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/creux-du-van-virtual-outcrop-subsampled-05m-635aa8ecb1f64a34815a60d4187eb8c8?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Creux-du-Van Virtual Outcrop (subsampled 0.5m) </a> by <a href="https://sketchfab.com/jefter.caldeira?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> jefter.caldeira </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
-###Image Slider
+Fold hinge segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.2 meters.
+<div class="sketchfab-embed-wrapper"> <iframe title="CV_C_0_15" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/5dcbba6699c240789c6d57bdfa1782c2/embed?ui_theme=dark&dnt=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/cv-c-0-15-5dcbba6699c240789c6d57bdfa1782c2?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> CV_C_0_15 </a> by <a href="https://sketchfab.com/jefter.caldeira?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> jefter.caldeira </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+### Image Slider
 <!-- Credits: https://img-comparison-slider.sneas.io/examples.html -->
 <script defer src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css" />
@@ -31,8 +34,8 @@ This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of C
 </style>
 
 <img-comparison-slider class="slider-example-focus">
-    <img slot="first" src="https://github.com/jeftercaldeira/jeftercaldeira.github.io/blob/master/files/Picture1.png?raw=true" />
-    <img slot="second" src="https://github.com/jeftercaldeira/jeftercaldeira.github.io/blob/master/files/Picture2.png?raw=true" />
+    <img slot="first" src="https://github.com/jeftercaldeira/jeftercaldeira.github.io/blob/master/files/Picture1_hinge_uninterp.png?raw=true" />
+    <img slot="second" src="https://github.com/jeftercaldeira/jeftercaldeira.github.io/blob/master/files/Picture2_hinge_interp.png?raw=true" />
     <svg slot="handle" xmlns="http://www.w3.org/2000/svg" width="100" viewBox="-8 -3 16 6">
         <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#736D1A" vector-effect="non-scaling-stroke"></path>
     </svg>
