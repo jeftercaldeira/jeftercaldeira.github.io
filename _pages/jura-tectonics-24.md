@@ -50,7 +50,36 @@ This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of C
 
 
 Fold hinge segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.2 meters.
-<div class="sketchfab-embed-wrapper"> <iframe title="Creux-du-Van VOM - Fold Hinge sector (res.~0.2m)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/5dcbba6699c240789c6d57bdfa1782c2/embed?ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/creux-du-van-vom-fold-hinge-sector-res02m-5dcbba6699c240789c6d57bdfa1782c2?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Creux-du-Van VOM - Fold Hinge sector (res.~0.2m) </a> by <a href="https://sketchfab.com/jefter.caldeira?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> jefter.caldeira </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<div class="sketchfab-embed-wrapper" style="position:relative; width:100%; padding-bottom:56.25%;">
+    <iframe title="Creux-du-Van VOM - Fold Hinge sector (res.~0.2m)" 
+            frameborder="0" 
+            allowfullscreen 
+            mozallowfullscreen="true" 
+            webkitallowfullscreen="true" 
+            allow="autoplay; fullscreen; xr-spatial-tracking" 
+            src="https://sketchfab.com/models/5dcbba6699c240789c6d57bdfa1782c2/embed?ui_theme=dark" 
+            style="position:absolute; top:0; left:0; width:100%; height:100%;">
+    </iframe>
+</div>
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> 
+    <a href="https://sketchfab.com/3d-models/creux-du-van-vom-fold-hinge-sector-res02m-5dcbba6699c240789c6d57bdfa1782c2?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" 
+       target="_blank" rel="nofollow" 
+       style="font-weight: bold; color: #1CAAD9;"> 
+       Creux-du-Van VOM - Fold Hinge sector (res.~0.2m) 
+    </a> 
+    by 
+    <a href="https://sketchfab.com/jefter.caldeira?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" 
+       target="_blank" rel="nofollow" 
+       style="font-weight: bold; color: #1CAAD9;"> 
+       jefter.caldeira 
+    </a> 
+    on 
+    <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" 
+       target="_blank" rel="nofollow" 
+       style="font-weight: bold; color: #1CAAD9;"> 
+       Sketchfab
+    </a>
+</p>
 
 ### Image Slider
 Hinge sector VOM interpretation
