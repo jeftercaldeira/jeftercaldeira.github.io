@@ -16,7 +16,37 @@ Download poster: [PDF ()]
 ### Sketch Fab Virtual Outcrop Model
 This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.5 meters.
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Creux-du-Van Virtual Outcrop (subsampled 0.5m)" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/635aa8ecb1f64a34815a60d4187eb8c8/embed?ui_theme=dark&dnt=1"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/creux-du-van-virtual-outcrop-subsampled-05m-635aa8ecb1f64a34815a60d4187eb8c8?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Creux-du-Van Virtual Outcrop (subsampled 0.5m) </a> by <a href="https://sketchfab.com/jefter.caldeira?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> jefter.caldeira </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<div class="sketchfab-embed-wrapper" style="position:relative; width:100%; padding-bottom:56.25%;">
+    <iframe title="Creux-du-Van Virtual Outcrop (subsampled 0.5m)" 
+            frameborder="0" 
+            allowfullscreen 
+            mozallowfullscreen="true" 
+            webkitallowfullscreen="true" 
+            allow="autoplay; fullscreen; xr-spatial-tracking" 
+            src="https://sketchfab.com/models/635aa8ecb1f64a34815a60d4187eb8c8/embed?ui_theme=dark&dnt=1" 
+            style="position:absolute; top:0; left:0; width:100%; height:100%;">
+    </iframe>
+</div>
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> 
+    <a href="https://sketchfab.com/3d-models/creux-du-van-virtual-outcrop-subsampled-05m-635aa8ecb1f64a34815a60d4187eb8c8?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" 
+       target="_blank" rel="nofollow" 
+       style="font-weight: bold; color: #1CAAD9;"> 
+       Creux-du-Van Virtual Outcrop (subsampled 0.5m) 
+    </a> 
+    by 
+    <a href="https://sketchfab.com/jefter.caldeira?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" 
+       target="_blank" rel="nofollow" 
+       style="font-weight: bold; color: #1CAAD9;"> 
+       jefter.caldeira 
+    </a> 
+    on 
+    <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=635aa8ecb1f64a34815a60d4187eb8c8" 
+       target="_blank" rel="nofollow" 
+       style="font-weight: bold; color: #1CAAD9;"> 
+       Sketchfab
+    </a>
+</p>
+
 
 
 Fold hinge segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.2 meters.
