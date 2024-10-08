@@ -9,9 +9,6 @@ author_profile: true
 _Jefter Caldeira, Anindita Samsu, Ayoub Fatihi_
 
 
-## Poster download 📥
-Download poster: [PDF ()]
-
 ## Interactive results 🧮
 ### Sketch Fab Virtual Outcrop Model
 This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.5 meters.
@@ -47,7 +44,7 @@ This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of C
     </a>
 </p>
 
-
+<br>
 
 Fold hinge segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.2 meters.
 <div class="sketchfab-embed-wrapper" style="position:relative; width:100%; padding-bottom:56.25%;">
@@ -76,7 +73,7 @@ Fold hinge segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Va
     on 
     <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=5dcbba6699c240789c6d57bdfa1782c2" 
        target="_blank" rel="nofollow" 
-       style="font-weight: bold; color: #1CAAD9;"> 
+       style="font-weight: bold; color: #808080;"> 
        Sketchfab
     </a>
 </p>
@@ -102,6 +99,7 @@ Hinge sector VOM interpretation
     </svg>
 </img-comparison-slider>
 
+<br>
 Picture 1C - intepretation
 <!-- Credits: https://img-comparison-slider.sneas.io/examples.html -->
 <script defer src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"></script>
@@ -110,7 +108,7 @@ Picture 1C - intepretation
 <style>
     .slider-example-focus:focus {
         outline: none;
-        box-shadow: 0px 0px 15px 5px #736D1A;
+        box-shadow: 0px 0px 15px 5px #808080;
     }
 </style>
 
@@ -121,6 +119,11 @@ Picture 1C - intepretation
         <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#736D1A" vector-effect="non-scaling-stroke"></path>
     </svg>
 </img-comparison-slider>
+
+
+## Poster download 📥
+Download poster: [PDF ()]
+
 
 ## References 📚
 [0] - Bundesamt für Landestopografie swisstopo; Tarquini S., I. Isola, M. Favalli, A. Battistini, G. Dotta (2023). TINITALY, a digital elevation model of Italy with a 10 meters cell size (Version 1.1). Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://doi.org/10.13127/tinitaly/1.1; DGM Österreich, geoland.at; DGM1, Bayerische Vermessungsverwaltung – www.geodaten.bayern.de; EU-DEM, provided under COPERNICUS by the European Union and ESA, all rights reserved; RGEAlti, Institut National de l’information géographique et forestière, données originales tétéchargées sur https://geoservices.ign.fr/rgealti#telechargement5m, mise à jour du juillet 2023.  
