@@ -1,15 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Federal University of Ouro Preto"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Federal University of Ouro Preto"
+date: 2011
+location: "Ouro Preto, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Voluntary monitoring of geological mapping discipline (240 h)
 
+<!-- 
 Heading 1
 ======
 
@@ -18,3 +18,29 @@ Heading 2
 
 Heading 3
 ======
+
+Teaching
+======
+
+Este é um comentário em HTML que não será exibido na página -->
+
+
+* University of Lausanne, 
+  * Assistant in Structural Geology, BSc. level - autumn semester 2024
+
+  * Assistant in field excursions:
+  *  From outcrop to 3D model, MSc. level (10h) – spring semester 2023
+  *  Structural Geology & Regional Geology Field camp, BSc. level (48h) – spring semester 2024
+
+* Petrobras Corporative University, Brazil
+  * Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2021
+  * Structural Analysis of Seismic data (40 h)	2016 
+  * Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2014 
+
+* University of the State of Rio de Janeiro, UERJ, Brazil
+  * Introduction to interpretation and structural analysis of seismic data (15h)	2018 
+
+* Federal University of Ouro Preto, UFOP, Brazil (Monitoring)	
+  * Voluntary monitoring of geological mapping discipline (240 h)	2011
+ 
+-->
