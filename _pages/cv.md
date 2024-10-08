@@ -29,24 +29,33 @@ Work experience
 * USIMINAS Mining	2010
   * Internship (40h/week - Credit Hours: 180h)	 
 
+
+<!--
 Teaching
 ======
 Teaching Experience
 
-* Petrobras University (Teaching)
-  *Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2021
-  *Structural Analysis of Seismic data (40 h)	2016 
-  *Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2014 
+* University of Lausanne
+  * Assistant in Structural Geology, BSc. level - autumn semester 2024
 
-* University of the State of Rio de Janeiro, UERJ (Teaching)	
-  *Introduction to interpretation and structural analysis of seismic data (15h)	2018 
+  * Assistant in field excursions:
+  *  From outcrop to 3D model, MSc. level (10h) – spring semester 2023
+  *  Structural Geology & Regional Geology Field camp, BSc. level (48h) – spring semester 2024
+
+* Petrobras Corporative University 
+  * Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2021
+  * Structural Analysis of Seismic data (40 h)	2016 
+  * Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2014 
+
+* University of the State of Rio de Janeiro, UERJ
+  * Introduction to interpretation and structural analysis of seismic data (15h)	2018 
 
 * Federal University of Ouro Preto, UFOP (Monitoring)	
   * Voluntary monitoring of geological mapping discipline (240 h)	2011
 
 
 
-<!--
+
 Skills
 ======
 * Skill 1
