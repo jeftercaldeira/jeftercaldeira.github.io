@@ -87,7 +87,7 @@ Hinge sector VOM interpretation
 <style>
     .slider-example-focus:focus {
         outline: none;
-        box-shadow: 0px 0px 15px 5px #736D1A;
+        box-shadow: 0px 0px 15px 5px #808080;
     }
 </style>
 
@@ -98,9 +98,30 @@ Hinge sector VOM interpretation
         <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#736D1A" vector-effect="non-scaling-stroke"></path>
     </svg>
 </img-comparison-slider>
+<br>
+
+Detailed VOM sector with measurements and Surface variation attribute on the Point Cloud. 
+<!-- Credits: https://img-comparison-slider.sneas.io/examples.html -->
+<script defer src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css" />
+
+<style>
+    .slider-example-focus:focus {
+        outline: none;
+        box-shadow: 0px 0px 15px 5px #808080;
+    }
+</style>
+
+<img-comparison-slider class="slider-example-focus">
+    <img slot="first" src="https://github.com/jeftercaldeira/jeftercaldeira.github.io/blob/master/files/07_Detail_VOM_RGB.png?raw=true" />
+    <img slot="second" src="https://github.com/jeftercaldeira/jeftercaldeira.github.io/blob/master/files/08_Detail_VOM_Surface_Variation.png?raw=true" />
+    <svg slot="handle" xmlns="http://www.w3.org/2000/svg" width="100" viewBox="-8 -3 16 6">
+        <path stroke="#fff" d="M -5 -2 L -7 0 L -5 2 M -5 -2 L -5 2 M 5 -2 L 7 0 L 5 2 M 5 -2 L 5 2" stroke-width="1" fill="#736D1A" vector-effect="non-scaling-stroke"></path>
+    </svg>
+</img-comparison-slider>
 
 <br>
-Picture 1C - intepretation
+Picture 1C - Field intepretation of conjugate fractures
 <!-- Credits: https://img-comparison-slider.sneas.io/examples.html -->
 <script defer src="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/index.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css" />
