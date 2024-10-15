@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Theses
-
+ 
 | | |
 |-|-|
 |2018| Master thesis. **Caldeira, J. N. M.** ***Structural characterization of the rift section in the central portion of the Outer High of Santos Basin***, University of Rio de Janeiro State, Rio de Janeiro. 113pp. [[link]](http://www.bdtd.uerj.br/handle/1/7164) |
