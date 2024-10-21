@@ -143,7 +143,7 @@ Picture 1C - Field intepretation of conjugate fractures
 
 
 ## Poster download 📥
-Download poster: [PDF ()]
+Download poster: [Optimized PDF (7.8 MB)](../files/Poster_Jura_Tectonics_Jefter_Caldeira_2024.pdf)
 
 
 ## References 📚
