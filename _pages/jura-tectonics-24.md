@@ -1,6 +1,6 @@
 ---
 permalink: /jura-tectonics-24
-title: "Jura Tectonics Conference 2024 (Besançon)"
+title: "Jura Tectonics"
 author_profile: true
 ---
 
@@ -11,7 +11,7 @@ _Jefter Caldeira, Anindita Samsu, Ayoub Fatihi_
 
 ## Interactive results 🧮
 ### Sketch Fab Virtual Outcrop Model
-This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.5 meters.
+This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of this upscaled point cloud is 0.5 meters.
 
 <div class="sketchfab-embed-wrapper" style="position:relative; width:100%; padding-bottom:56.25%;">
     <iframe title="Creux-du-Van Virtual Outcrop (subsampled 0.5m)" 
@@ -46,7 +46,7 @@ This is a subsampled segment of the Virtual Outcrop Model (VOM) Point Cloud of C
 
 <br>
 
-Fold hinge segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of the point cloud is 0.2 meters.
+Fold hinge segment of the Virtual Outcrop Model (VOM) Point Cloud of Creux-du-Van (Central Internal Jura), acquired using the Long Range 3D Laser Scanning System RIEGL VZ-2000i. The data was collected by the Detect-Deformation & Tectonics Group at the University of Lausanne (UNIL) in October 2023. The average resolution of this upscaled point cloud is 0.2 meters.
 <div class="sketchfab-embed-wrapper" style="position:relative; width:100%; padding-bottom:56.25%;">
     <iframe title="Creux-du-Van VOM - Fold Hinge sector (res.~0.2m)" 
             frameborder="0" 
