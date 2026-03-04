@@ -24,9 +24,12 @@ author_profile: true
 
 ### Conference Presentations
 
-| Year | Title |  
-|------|-------|  
-| 2024 | **CALDEIRA, J. N. M.** ; SAMSU, A.; FATIHHI, A. Multi-Scale Structural Mapping And Analysis Of Natural Fractures Of Creux-Du-Van, 2024, Besançon-France. [[link]](https://juratectonics.sciencesconf.org/data/pages/2024_10_04_Abstract_book_JuraTect_2024.pdf) |  
-| 2021 | **CALDEIRA, J. N. M.** ; ALMEIDA, J. C. H.; ARAUJO, M. N. C.  As estruturas de acomodação na seção rifte e pós-rifte da porção central do Alto Externo da Bacia de Santos, 2021, Brasilia-DF. Anais do 50º Congresso Brasileiro de Geologia, v. 2. p. 532-532. 2021. |  
-| 2011 | **CALDEIRA, J. N. M.** ; ENDO, I.  Geometria e cinemática da foliação milonítica na suíte intrusiva sincolisional do Orógeno Araçuaí: região do Parque dos Pontões Capixabas, es, 2011, Campinas. ANAIS do 13º Simpósio Nacional de Estudos Tectônicos, 2011. v. único.  |  
+| Year | Title |
+|------|-------|
+| 2025 | **Caldeira, J. N. M.**; Samsu, A. *Seamless fracture characterization with virtual outcrop models: Fracture geometry and vertical persistence at Creux-du-Van, Swiss Jura Mountains*. EGU General Assembly, Vienna, 2025. [[link]](https://meetingorganizer.copernicus.org/EGU25/EGU25-11216.html) |
+| 2025 | **Caldeira, J. N. M.**; Tanaka, A. P. B.; Samsu, A.; Renard, P. *Digital outcrop models for structural analysis of fracture networks: Case studies from the Swiss Jura and Alps*. VGC 2025 – Virtual Geoscience Conference, Lausanne - Switzerland, 2025. [[link]](https://vgc-series.org/wp-content/uploads/2025/09/Abstract_Book_VGC25.pdf) |
+| 2024 | **Caldeira, J. N. M.**; Samsu, A.; Fatihi, A. *Spanning the scales of fracture analysis using a LiDAR-based virtual outcrop model: Insights from Creux-du-Van, Central Internal Jura*. 22nd Swiss Geoscience Meeting, Basel - Switzerland, 2024. [[link]](https://geoscience-meeting.ch/sgm2024/wp-content/uploads/abstracts/Caldeira_Jefter_08-30-24-11-37-58.pdf) |
+| 2024 | **Caldeira, J. N. M.**; Samsu, A.; Fatihi, A. *Multi-scale structural mapping and analysis of natural fractures of Creux-du-Van*. JuraTect 2024, Besançon, France. [[link]](https://juratectonics.sciencesconf.org/data/pages/2024_10_04_Abstract_book_JuraTect_2024.pdf) |
+| 2021 | **Caldeira, J. N. M.**; Almeida, J. C. H.; Araujo, M. N. C. *As estruturas de acomodação na seção rifte e pós-rifte da porção central do Alto Externo da Bacia de Santos*. 50º Congresso Brasileiro de Geologia, Brasília, Brasil, 2021. Anais v. 2, p. 532–532. |
+| 2011 | **Caldeira, J. N. M.**; Endo, I. *Geometria e cinemática da foliação milonítica na suíte intrusiva sincolisional do Orógeno Araçuaí: região do Parque dos Pontões Capixabas, ES*. 13º Simpósio Nacional de Estudos Tectônicos, Campinas, 2011. Anais v. único. |
 
