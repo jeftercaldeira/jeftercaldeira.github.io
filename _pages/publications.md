@@ -14,10 +14,12 @@ author_profile: true
 
 ### Journal Articles
 
-| Year | Title |  
-|------|-------|  
-| 2018 | Tanaka, A. P. B.; Borges, J. P. G.; Matos, G. C.; Campos, M. T. R.; Cunha, B. M.; Souza, R. B. ; **Caldeira, J. N. M.** ; Oliveira, T. A. S. ; Marçon, D. R. ; Lima, A. P. M. . ***Fault-related fracture modeling in a pre-salt lacustrine carbonate reservoir from Santos Basin, offshore Brazil: Predicting preferential fluid flow paths using 3D geological and flow simulation models***. MARINE AND PETROLEUM GEOLOGY, v. 135, p., [10.1016/j.marpetgeo.2021.105392]) |  
-| 2010 | Gomes, C. J. S.; **Caldeira, J. N. M.**  ***As propriedades friccionais da areia de quartzo: medidas efetuadas em experimentos físico-analógicos e em um ring-shear tester***. REM. Revista Escola de Minas, v. 64, p. 289-298, 2011. [10.1590/S0370-44672011000300006]) |  
+| Year | Title |
+|------|-------|
+| 2026 | **Caldeira, J. N. M.**; Samsu, A.; Fatihi, A. ***Multi-scale structural analysis of fracture networks in folded limestones: A case study from the Central Internal Jura, Switzerland***. *Journal of Structural Geology*, v. 205, 105640. [https://doi.org/10.1016/j.jsg.2026.105640](https://doi.org/10.1016/j.jsg.2026.105640) |
+| 2025 | Tanaka, A. P. B.; Renard, P.; **Caldeira, J. N. M.**; Trunz, C. ***Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps***. *Journal of Structural Geology*, v. 201, 105543. [https://doi.org/10.1016/j.jsg.2025.105543](https://doi.org/10.1016/j.jsg.2025.105543) |
+| 2021 | Tanaka, A. P. B.; Borges, J. P. G.; Matos, G. C.; Campos, M. T. R.; Cunha, B. M.; Souza, R. B.; **Caldeira, J. N. M.**; Oliveira, T. A. S.; Marçon, D. R.; Lima, A. P. M. ***Fault-related fracture modeling in a pre-salt lacustrine carbonate reservoir from Santos Basin, offshore Brazil: Predicting preferential fluid flow paths using 3D geological and flow simulation models***. *Marine and Petroleum Geology*, v. 135, 105392. [https://doi.org/10.1016/j.marpetgeo.2021.105392](https://doi.org/10.1016/j.marpetgeo.2021.105392) |
+| 2011 | Gomes, C. J. S.; **Caldeira, J. N. M.** ***As propriedades friccionais da areia de quartzo: medidas efetuadas em experimentos físico-analógicos e em um ring-shear tester***. *REM – Revista Escola de Minas*, v. 64, p. 289–298. [https://doi.org/10.1590/S0370-44672011000300006](https://doi.org/10.1590/S0370-44672011000300006) |
 
 
 ### Conference Presentations
