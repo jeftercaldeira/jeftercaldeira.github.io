@@ -5,5 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
+** University of Lausanne, 
+  * Assistant in Structural Geology practical courses,
+    * BSc. level - autumn semester 2024
 
-|10.2024 | [Poster] Caldeira, J., Samsu, A, Fatihi, A., _Multi-scale Structural Mapping And Analysis Of Natural Fractures Of Creux-du-Van_, Jura Tectonics 2024 Conference, Besançon ([link](https://jeftercaldeira.github.io/jura-tectonics-24)) |
+  * Field courses:
+    *  Structural Geology & Regional Geology Field camp, BSc. level (48h) – spring 2023; 2024; 2025
+    *  From outcrop to 3D model, MSc. level (30h) – spring 2023; 2024; 2025
+    *  Mountain Belts on the Field: Jura Mountains (10h) – spring 2025
+
+** Petrobras Corporative University, Brazil
+  * Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2021
+  * Structural Analysis of Seismic data (40 h)	2016 
+  * Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2014 
+
+** University of the State of Rio de Janeiro, UERJ, Brazil
+  * Introduction to interpretation and structural analysis of seismic data (15h)	2018 
+
+** Federal University of Ouro Preto, UFOP, Brazil (Monitoring)	
+  * Voluntary monitoring of geological mapping discipline (240 h)	2011
+ 
