@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 **University of Lausanne, Switzerland**, 
-  * Assistant in Structural Geology practical courses,
-    * BSc. level - autumn semester 2024
+  * Assistant in courses:
+    * Géologie Structurale - BSc. level (50h) - autumn semester 2024; 2025
 
   * Field courses:
-    *  Structural Geology & Regional Geology Field camp, BSc. level (48h) – spring 2023; 2024; 2025
-    *  From outcrop to 3D model, MSc. level (30h) – spring 2023; 2024; 2025
-    *  Mountain Belts on the Field: Jura Mountains (10h) – spring 2025
+    *  Camp de terrain - Géologie Structurale, BSc. level (48h) – spring 2023; 2024; 2025
+    *  From outcrop to 3D model, MSc. level (10h) – spring 2023; 2024; 2025
+    *  Mountain Belts on the Field: Jura Mountains MSc. level (10h) – spring 2025
 
 **Petrobras Corporative University, Brazil**
   * Structural Modeling on 3D Reservoir Geological Modeling (40 h)	2021
